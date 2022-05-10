@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "email": "pedro23@gmail.com",
+      "password": "$2a$10$6T/jHlCMLCAAB9mAAieDLeavZoTr4T5XPulCEIGV8nX4jL6sI.X02",
+      "id": 2
+    },
+    {
+      "email": "pedro@gmail.com",
+      "password": "$2a$10$UMltNNAS77vXEBTGRdvjkOAroX1FrTqYsmBhwA.tK36KkB/Ljy8ri",
+      "id": 3
+    },
+    {
+      "email": "pedrohtbl@gmail.com",
+      "password": "$2a$10$PgP26.e0CVrnh2GGavS78e8tWinRMb6sU7YcqrZ/v46xBkT7xwhxS",
+      "id": 4
+    }
+  ],
+  "companys": [
+    {
+      "name": "Kenzie",
+      "userId": "4",
+      "id": 1
+    }
+  ]
+}
